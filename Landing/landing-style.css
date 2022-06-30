@@ -83,7 +83,7 @@ body{
 }
 
 .van-bg{
-    height: 80vh;
+    height: 85vh;
     background-position: 20px;
     background-size: cover;
     background-image: url("https://phototravelnomads.com/wp-content/uploads/Volkswagen-Kombi-Camper-Van-Neuseeland.jpg");
@@ -95,4 +95,45 @@ body{
     padding-left: 125px;
     font-size: 36px;
     text-decoration: underline;
+}
+
+#about{
+    height: 100vh;
+}
+
+.title{
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+.about-text{
+    margin-top: 15px;
+    font-size: 20px;
+}
+
+.bigger{
+   font-size: 20px;
+   font-weight: bolder;
+}
+
+ol{
+    font-size: 22px;
+    margin-left: 30px
+}
+
+li{
+    margin-top: 12px;
+}
+
+.about-images{
+    display: flex;
+    margin-top: 15px;
+}
+
+.img1{
+    width: 800px;
+}
+
+.img2{
+    width: 650px;
 }
